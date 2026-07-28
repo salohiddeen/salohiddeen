@@ -10,7 +10,6 @@ Experienced in designing APIs, developing user-facing features, and maintaining 
 Interested in:
 Go • Distributed Systems • Linux • Open Source • AI
 ```
----
 
 ```text
 Coding          ████████████████████ 95%
