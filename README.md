@@ -15,7 +15,7 @@ Sleep           ████████░░░░░░░░░░░░ 40%
 ```
 
 ```text
-Email      : yourmail@gmail.com
-Telegram   : https://t.me/your_username
-LinkedIn   : https://linkedin.com/in/your_username
+Email      : tarqymuhammadal@gmail.com
+Telegram   : https://t.me/salohiddeenn
+LinkedIn   : https://www.linkedin.com/in/salohiddintojiev/
 ```
