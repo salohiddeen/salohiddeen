@@ -1,12 +1,4 @@
-```console
-$ whoami
-```
-
 # Salohiddeen
-
-```console
-$ cat profile.txt
-```
 
 ```text
 Software engineer from Uzbekistan
@@ -20,19 +12,11 @@ Go • Distributed Systems • Linux • Open Source • AI
 ```
 ---
 
-```console
-$ uptime
-```
-
 ```text
 Coding          ████████████████████ 95%
 Learning        ██████████████████░░ 90%
 Coffee          ███████████████░░░░░ 75%
 Sleep           ████████░░░░░░░░░░░░ 40%
-```
-
-```console
-$ contact
 ```
 
 ```text
