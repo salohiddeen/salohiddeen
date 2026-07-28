@@ -1,10 +1,7 @@
 # Salohiddeen
 
 ```text
-Software engineer from Uzbekistan
-
 Software Engineer focused on designing reliable backend systems, scalable architectures, and high-performance applications.
-
 
 Interested in:
 Distributed Systems • Linux • algorithm • AI • system architecture
